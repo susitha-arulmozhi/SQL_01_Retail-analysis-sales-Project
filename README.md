@@ -5,6 +5,7 @@
 **Project Title**: Retail Analysis Sales project  
 **Level**: Beginner  
 **Database**: `sql_project_1`
+**Dataset**: `SQL - Retail Sales Analysis_utf .csv`
 
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
 
@@ -273,7 +274,7 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 ## How to Use
 
-1. **Clone the Repository**: Clone this project repository from GitHub.
+1. **Clone the Repository**: Clone this project repository from GitHub and download the files. The name of the dataset file is `SQL - Retail Sales Analysis_utf .csv`
 2. **Run the Queries**: Use the SQL queries provided in the `SQL_Project_1.sql` file to perform your analysis.
 3. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
 
